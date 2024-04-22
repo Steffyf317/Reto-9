@@ -1,5 +1,5 @@
 # Reto 9
-##1.De los retos anteriores selecione 3 funciones y escribalas en forma de lambdas.
+## 1.De los retos anteriores selecione 3 funciones y escribalas en forma de lambdas.
 ``` python
 # Mi mamá me manda a comprar P panes a 300 cada uno, M bolsas de leche a 3300 cada una y H huevos a 350 cada uno. Hacer un programa que me diga las vueltas (o lo que quedo debiendo) cuando me da un billete de B pesos
 if __name__ == "__main__":
@@ -35,7 +35,7 @@ if __name__ == "__main__":
   personas_contagiadas = (lambda x,y: x*(2)**y) (C,D) #formula (función anónima) basada en el crecimiento poblacional de bacterias, solo que aqui no se tiene en cuenta el euler sino la duplicacion de individuos contagiados
   print ("El número de personas contagiadas en " +str(D)+ " días es de " +str(personas_contagiadas))
 ```
-##2. De los retos anteriores selecione 3 funciones y escribalas con argumentos no definidos (*args).
+## 2. De los retos anteriores selecione 3 funciones y escribalas con argumentos no definidos (*args).
 ```python
 # Diseñe una función que calcule la cantidad de carne de aves en kilos si se tienen N gallinas, M gallos y K pollitos cada uno pesando 6 kilos, 7 kilos y 1 kilo respectivamente.
 
