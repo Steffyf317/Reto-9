@@ -51,7 +51,7 @@ if __name__ == "__main__":
   print("La cantidad de carne de las aves es de " +str(cantidad_carne_aves(N,M,K))+ " kilos")
 ```
 ```python
-# función matemática para calcular el área y el perimetro carrito
+# función matemática para calcular el área y el perimetro de un carrito compuesto por un rectángulo y dos círculos
 import math
 
 def calcular_area (*args) -> float: #función con argumentos no definidos
