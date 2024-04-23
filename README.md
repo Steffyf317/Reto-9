@@ -134,4 +134,4 @@ print("El tiempo de ejecución es de " +str(timer)+ " segundos")
 ## 5. Cuenta de Stack Overflow
 [![stack.png](https://i.postimg.cc/MKYKNC90/stack.png)](https://postimg.cc/0bbsJBRr)
 
-## 6.Perfil de [Linkedin](https:/www.linkedin.com/in/steffy-geraldine-fernández-gonzález-964965205/)
+## 6.Perfil de [Linkedin](https://www.linkedin.com/in/steffy-geraldine-fern%C3%A1ndez-gonz%C3%A1lez-964965205/)
